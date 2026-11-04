@@ -1,4 +1,4 @@
-2026-11-04 15:30:15 UTC
+2026-11-04 15:57:21 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
@@ -6,33 +6,33 @@ Astreon
 
 Built at 2026-10-06 11:27:57 UTC
 
-Early init took 143 ms
-Loading error handling took 103 ms
-Loading script took 2303 ms
+Early init took 191 ms
+Loading error handling took 266 ms
+Loading script took 2607 ms
 Loading save slot metadata took 37 ms
 Loading persistent took 0 ms
 Set script version to: (8, 3, 4)
-Running init code took 508 ms
+Running init code took 509 ms
 Loading analysis data took 8 ms
-Analyze and compile ATL took 22 ms
+Analyze and compile ATL took 24 ms
 Reloading save slot metadata took 2 ms
-Dump and make backups took 113 ms
+Dump and make backups took 121 ms
 Cleaning cache took 0 ms
 Making clean stores took 1 ms
-Initial gc took 123 ms
+Initial gc took 137 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 495 ms
+Creating interface object took 460 ms
 Init translation took 8 ms
-Cleaning stores took 1 ms
-Load screen analysis took 95 ms
+Cleaning stores took 0 ms
+Load screen analysis took 96 ms
 Analyze screens took 3 ms
 Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
 Save bytecode took 0 ms
-Running _start took 4 ms
-Interface start took 1836 ms
+Running _start took 3 ms
+Interface start took 1806 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
