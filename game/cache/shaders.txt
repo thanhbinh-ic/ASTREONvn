@@ -1,0 +1,15 @@
+renpy.dissolve renpy.dissolve
+sgwni.dreamy_zoom sgwni.dreamy_zoom
+sgwni.glitch_memories sgwni.glitch_memories
+sgwni.linear_blur sgwni.linear_blur
+renpy.ftl
+renpy.geometry renpy.texture
+renpy.geometry sgwni.glitch_memories
+renpy.alpha renpy.geometry renpy.texture
+renpy.geometry sgwni.linear_blur
+renpy.geometry sgwni.dreamy_zoom
+renpy.texture
+renpy.geometry renpy.solid
+renpy.dissolve renpy.geometry
+renpy.alpha renpy.texture
+renpy.solid
