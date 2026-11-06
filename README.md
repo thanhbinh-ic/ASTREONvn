@@ -91,7 +91,7 @@ The Vietnamese translation includes:
 ### What you need
 
 - An Android device (Android 5.0 or later)
-- At least 1 GB of free storage
+- At least 5 GB of free storage
 - A file manager app that can extract ZIP files
 
 ### Steps
@@ -132,7 +132,7 @@ Launch the game, open **LANGUAGE** from the main menu, and select **Vietnamese**
 ### What you need
 
 - Windows PC
-- At least 1 GB of free storage
+- At least 5 GB of free storage
 
 ### Steps
 
