@@ -207,7 +207,7 @@ This is an **unofficial, fan-made translation**. It is not affiliated with, endo
 
 ## Credits
 
-- **Original game:** [NoGlory](https://noglory.itch.io/astreon)
+- **Author:** [NoGlory](https://noglory.itch.io/)
 - **Vietnamese translation:** Thanh Bình ([@thanhbinh-ic](https://github.com/thanhbinh-ic))
 
 <p align="center">
