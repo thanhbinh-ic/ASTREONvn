@@ -164,6 +164,7 @@ screen language1():
                             _("Russian"), Show("russian_screen"),
                             _("Chinese"), Show("chinese_screen"),
                             _("Spanish"), Show("spanish_screen"),
+                            _("Vietnamese"), Language("vietnamese"),
                             mouse=True
                         )
 
