@@ -2,10 +2,6 @@
   <img src="https://img.itch.zone/aW1nLzE5MTc2MDE0LnBuZw==/original/xJcJpZ.png" alt="Astreon banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="assets/astreon-title.svg" alt="ASTREON" width="700">
-</p>
-
 # Astreon — Vietnamese Translation (Fan-made)
 
 **Current version: v0.4.5**
@@ -59,8 +55,6 @@ But, as often happens, things do not go according to plan. One day, when your wi
 This is a fan translation. The original game is made by **NoGlory**. Please support the author on the official page:
 
 [![Play Astreon on itch.io](https://img.shields.io/badge/itch.io-Astreon-fa5c5c?style=for-the-badge)](https://noglory.itch.io/astreon)
-
-🔗 **Official page:** https://noglory.itch.io/astreon
 
 ## What's in This Repository
 
@@ -213,7 +207,7 @@ This is an **unofficial, fan-made translation**. It is not affiliated with, endo
 
 ## Credits
 
-- **Original game:** [NoGlory](https://noglory.itch.io/astreon)
+- **Author:** [NoGlory](https://noglory.itch.io/)
 - **Vietnamese translation:** Thanh Bình ([@thanhbinh-ic](https://github.com/thanhbinh-ic))
 
 <p align="center">
