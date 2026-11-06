@@ -56,8 +56,6 @@ This is a fan translation. The original game is made by **NoGlory**. Please supp
 
 [![Play Astreon on itch.io](https://img.shields.io/badge/itch.io-Astreon-fa5c5c?style=for-the-badge)](https://noglory.itch.io/astreon)
 
-🔗 **Official page:** https://noglory.itch.io/astreon
-
 ## What's in This Repository
 
 - The `main` branch contains the **full game data** for Astreon v0.4.5, with the Vietnamese translation already built in (`tl/vietnamese/`). The game data is the same for the PC and Android versions.
