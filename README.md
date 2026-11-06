@@ -2,7 +2,7 @@
   <img src="https://img.itch.zone/aW1nLzE5MTc2MDE0LnBuZw==/original/xJcJpZ.png" alt="Astreon banner" width="100%">
 </p>
 
-# Astreon — Vietnamese Translation (Fan-made)
+# Astreon — Vietnamese Translation
 
 **Current version: v0.4.5**
 
