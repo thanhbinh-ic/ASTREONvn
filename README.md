@@ -199,7 +199,7 @@ This is an **unofficial, fan-made translation**. It is not affiliated with, endo
 
 - The game **Astreon** and all of its original content belong to **NoGlory**.
 - This translation is shared for free, for fans who want to play the game in Vietnamese.
-- If you enjoy the game, please support the author on the [official itch.io page](https://noglory.itch.io/astreon).
+- If you enjoy the game, please support the author on the [Patreon](https://www.patreon.com/NoGloryx).
 
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvMjk2MjY4My8yNzEzNTEwNC5qcGc=/original/fXV7Ih.jpg" alt="Astreon screenshot" width="800">
